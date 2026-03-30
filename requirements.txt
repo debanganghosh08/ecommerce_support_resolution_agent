@@ -1,0 +1,5 @@
+crewai
+langchain-chroma
+langchain-google-genai
+python-dotenv
+pydantic

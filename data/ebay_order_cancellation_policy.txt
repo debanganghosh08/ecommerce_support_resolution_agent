@@ -1,0 +1,81 @@
+Title: Order cancellation policy
+
+URL Source: https://www.ebay.com/help/policies/member-behavior-policies/order-cancellation-policy?id=5298
+
+Markdown Content:
+## Canceling an order
+
+Purchases on eBay can be canceled by the seller or by eBay. Buyers can request a cancellation, but it's up to the seller to accept or decline the request. If multiple items were purchased as part of the same order, then all items in the order will be canceled.
+
+**An order cannot be canceled if:**
+
+*   The seller has shipped the item or the item has been collected in person
+*   The buyer has reported that the item hasn't arrived
+*   The buyer has opened a return request
+*   It's more than 30 days since the order was placed
+
+**A seller can cancel an order if:**
+
+*   The buyer hasn't paid within the time allowed
+*   The buyer used the wrong shipping address at checkout
+*   The item is out of stock (this will result in a [transaction defect](https://www.ebay.com/help/policies/member-behavior-policies/order-cancellation-policy?id=5298#defect))
+
+**A buyer can request to cancel an order if:**
+
+*   They changed their mind about the purchase
+*   They made a mistake during checkout
+*   They are unable to pick up the item
+
+When a buyer submits a request to cancel their order, the seller can choose to accept or decline the buyer's request.
+
+**eBay can cancel an order if:**
+
+*   The buyer hasn't paid for the order and the seller doesn't respond to the buyer’s cancellation request within the time frame allowed
+*   The buyer purchased the item using wire transfer but full payment isn't received within the time frame allowed. Learn more about [paying with wire transfer](https://www.ebay.com/help/buying/paying-items/paying-items?id=4009)
+
+## Actions & time frames for order cancellations
+
+**Action****Time frame**
+**Seller initiated cancellations:**
+**The seller cancels an order**
+
+Learn more about [how sellers can cancel an order](https://www.ebay.com/help/selling/getting-paid/sellers-can-cancel-order?id=4136).Latest:
+
+*   30 calendar days after the seller receives notification that the item has sold
+
+If the buyer doesn't pay, the seller can cancel the order after 4 calendar days
+
+*   For [eBay Live](https://www.ebay.com/help/buying/ebay-live/livestream-shopping-ebay-live?id=5421) auctions, immediate payment is required. If the buyer's payment is unsuccessful, the seller may cancel the order immediately
+
+Learn more about [Resolving unpaid items with buyers](https://www.ebay.com/help/selling/getting-paid/resolving-unpaid-items-buyers?id=4137).
+**Buyer requested cancellations:**
+**The buyer requests to cancel an order**
+
+Learn more about [how buyers can request to cancel an order](https://www.ebay.com/help/buying/buyers-can-cancel-order/buyers-can-cancel-order?id=4004).Latest:
+
+*   30 calendar days after the order, or up to the point the seller indicates the order has shipped or the [item has been collected in-person](https://www.ebay.com/help/selling/shipping-items/setting-shipping-options/local-pickup?id=4181)
+**The seller responds to the buyer's request**Latest:
+
+*   3 calendar days after the request date
+
+If the buyer has paid for the order and the seller doesn't respond within this time frame, we'll close the request and the order won't be canceled
+
+If the buyer hasn't paid for the order and the seller doesn't respond within this time frame, we'll automatically cancel the order
+
+## Refunds
+
+If the buyer completed payment through eBay checkout and the seller cancels the order, a full refund will be issued to the buyer's original payment method.
+
+If payment was not completed through eBay checkout and the seller cancels the order (for example, payment on pickup), the seller will be responsible for issuing a full refund to the buyer.
+
+## Other terms and related policies
+
+*   Buying an item or bidding on an auction on eBay is a commitment to complete a purchase. Buyers should pay for items within 4 calendar days or the seller can choose to cancel the order. If buyers have excessive canceled orders for unpaid items or make excessive requests to cancel orders, they may be subject to the consequences outlined in our [Unpaid item policy](https://www.ebay.com/help/policies/payment-policies/unpaid-item-policy?id=4271) and [Abusive buyer policy](https://www.ebay.com/help/policies/rules-policies-buyers/abusive-buyer-policy?id=4374)
+*   A buyer can still leave feedback on a canceled transaction, unless the seller canceled the order because the buyer didn't pay. Learn more in our [Unpaid item policy](https://www.ebay.com/help/policies/payment-policies/unpaid-item-policy?id=4271)
+*   If a buyer requests to cancel an order – either by submitting a cancellation request on eBay or by messaging the seller – we'll remove any negative or neutral feedback which relates to the cancellation. This applies whether or not the seller accepts the cancellation request. Learn more in our [Feedback policy](https://www.ebay.com/help/policies/feedback-policies/feedback-policy?id=4208)
+*   [](https://www.ebay.com/help/policies/member-behavior-policies/order-cancellation-policy?id=5298)Canceling an order because the item is out of stock will result in a transaction defect, as sellers are responsible for fulfilling the items they've sold. Learn more about the factors that affect a [seller's performance level](https://www.ebay.com/help/policies/selling-policies/seller-standards-policy?id=4347)
+*   Sellers must select the accurate cancellation reason when canceling an order. Using an incorrect reason to avoid a defect or to bypass eBay policies is not allowed
+*   Once an order has been canceled, the cancellation can't be undone
+*   A seller may be eligible for [fee credits](https://www.ebay.com/help/selling/fees-credits-invoices/fee-credits?id=4128) for canceled orders
+
+Activity on eBay is required to follow this policy, the eBay [User Agreement](https://www.ebay.com/help/policies/member-behavior-policies/user-agreement?id=4259) and all applicable laws, as well as respect the rights of third parties. If it doesn’t, eBay may take action consistent with applicable laws and the eBay [User Agreement](https://www.ebay.com/help/policies/member-behavior-policies/user-agreement?id=4259), and may even be legally required to do so. Such actions may include, as an example only: Removing the listing or other content, issuing a warning, restricting activity or account suspension.

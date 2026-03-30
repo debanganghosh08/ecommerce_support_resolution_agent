@@ -1,0 +1,751 @@
+Title: Dispute management
+
+URL Source: https://www.paypal.com/in/business/operations/dispute-management
+
+Markdown Content:
+# Dispute Management | Dispute Resolution | PayPal IN
+
+Menu
+
+[PayPal logo](https://www.paypal.com/in/home)
+
+*   [Sign Up](https://www.paypal.com/in/webapps/mpp/account-selection)
+
+*   Personal
+
+## [PayPal for You](https://www.paypal.com/in/webapps/mpp/home) 
+
+### Shop and Buy
+
+    *   [Shop with PayPal](https://www.paypal.com/in/webapps/mpp/online-shopping)
+
+    *   [![Image 1: How PayPal works](https://www.paypalobjects.com/marketing/web/US/en/rebrand/pictograms/personal-how-it-works.svg)How PayPal Works](https://www.paypal.com/in/webapps/mpp/consumer-setup)
+    *   [![Image 2: Get the App](https://www.paypalobjects.com/marketing/web/US/en/rebrand/pictograms/personal-app.svg)Get the App](https://www.paypal.com/in/webapps/mpp/pay-with-app)
+    *   [![Image 3: PayPal Buyer Protection](https://www.paypalobjects.com/marketing/web/US/en/rebrand/pictograms/protection-blue.svg)PayPal Buyer Protection](https://www.paypal.com/in/webapps/mpp/paypal-buyer-protection)
+
+*   Small Business
+
+## [PayPal for Business](https://www.paypal.com/in/business) 
+
+### [Accept Payments](https://www.paypal.com/in/business/accept-payments)
+
+    *   [Online Checkout](https://www.paypal.com/in/business/accept-payments/checkout)
+    *   [Payment Links](https://www.paypal.com/in/business/accept-payments/payment-links)
+    *   [Invoicing](https://www.paypal.com/in/business/accept-payments/invoice)
+    *   [Recurring Payments](https://www.paypal.com/in/business/accept-payments/checkout/recurring)
+    *   [Checkout Integration](https://www.paypal.com/in/business/accept-payments/checkout/integration)
+
+### [Business Operations](https://www.paypal.com/in/business/operations)
+
+    *   [Risk Management](https://www.paypal.com/in/business/operations/risk-management)
+    *   [Dispute Management](https://www.paypal.com/in/business/operations/dispute-management)
+    *   [Reporting Tools](https://www.paypal.com/in/business/operations/reporting-tools)
+    *   [Platforms & Marketplaces](https://www.paypal.com/in/business/platforms-and-marketplaces)
+
+### Resources
+
+    *   [Business Resource Center](https://www.paypal.com/in/brc/)
+
+    *   [![Image 4: Contact Sales](https://www.paypalobjects.com/marketing/web/US/en/rebrand/pictograms/enterprise-contact.svg)Contact Sales](https://www.paypal.com/in/business/contact-sales)
+    *   [![Image 5: Get Started](https://www.paypalobjects.com/marketing/web/US/en/rebrand/pictograms/business-start.svg)Get Started](https://www.paypal.com/in/business/open-business-account)
+    *   [![Image 6: Fees](https://www.paypalobjects.com/marketing/web/US/en/rebrand/pictograms/business-pricing.svg)Fees](https://www.paypal.com/in/business/paypal-business-fees)
+
+*   Enterprise
+
+## [PayPal for Enterprise](https://www.paypal.com/in/enterprise) 
+
+### Payments
+
+    *   [Marketplaces & Partners](https://www.paypal.com/in/business/platforms-and-marketplaces)
+    *   [Platforms & Solutions](https://www.paypal.com/in/enterprise/platform)
+    *   [Accept PayPal](https://www.paypal.com/in/enterprise/accept-payments)
+    *   [Make Payments](https://www.paypal.com/in/enterprise/make-payments)
+
+### Risks & Operations
+
+    *   [Manage Risk](https://www.paypal.com/in/enterprise/manage-risk)
+    *   [Accelerate Growth](https://www.paypal.com/in/enterprise/accelerate-growth)
+    *   [Streamline Operation](https://www.paypal.com/in/enterprise/streamline-operations)
+
+*   Partners
+
+### [Become a Partner](https://www.paypal.com/in/enterprise/become-a-partner)
+
+    *   [Partner Directory](https://www.paypal.com/in/webapps/mpp/solution-providers)
+
+*   Useful Info
+
+### Resources
+
+    *   [Know your customer (KYC)](https://www.paypal.com/in/webapps/mpp/know-your-customer)
+    *   [Online Security](https://www.paypal.com/in/webapps/mpp/paypal-safety-and-security)
+    *   [Fraud Prevention](https://www.paypal.com/in/webapps/mpp/fraud-prevention)
+    *   [Phishing](https://www.paypal.com/in/webapps/mpp/phishing)
+    *   [PCI Compliance](https://www.paypal.com/in/webapps/mpp/pci-compliance)
+    *   [Foreign Inward Remittance Advise (FIRA)](https://www.paypal.com/in/webapps/mpp/firc-certificate)
+    *   [Tax Deducted at Source & Ariba registration](https://www.paypal.com/in/cshelp/article/what-if-i-can%E2%80%99t-fulfil-tds-tax-deducted-at-source-due-to-the-net-settlement-help992)
+    *   [Help Centre](https://www.paypal.com/in/smarthelp/contact-us)
+
+[Log In](https://www.paypal.com/signin)[Sign Up](https://www.paypal.com/in/webapps/mpp/account-selection)
+
+# Dispute management
+
+## Disputes happen.
+
+## We can help you handle them.
+
+Don’t let disputes get you down. We’re here to help resolve issues with customers and help you avoid chargebacks.1 It all starts with a Business account.
+
+[Sign Up](https://www.paypal.com/in/bizsignup/entry)[Contact Sales](https://www.paypal.com/in/business/contact-sales)
+
+Talk to an account specialist to get started, [+852-3550-8584](tel:+85235508584).
+
+![Image 7: Smiling business owner managing a dispute on his laptop](https://paypalobjects.com/marketing/web23/in/smb/dispute-management/dispute-management-component-hero-size-mobile-up.jpg?quality=75&width=300)
+
+*   [Sign Up](https://www.paypal.com/in/bizsignup/entry)
+*   [Contact Sales](https://www.paypal.com/in/business/contact-sales)
+
+* * *
+
+*   [Sign Up](https://www.paypal.com/in/bizsignup/entry)
+*   [Contact Sales](https://www.paypal.com/in/business/contact-sales)
+
+## Dispute management you
+
+## can trust
+
+### All you need to know in one place
+
+Track and manage all case activity in one dashboard from our Resolution Center.
+
+### Convenience for you and your buyers
+
+Buyers can easily let you know about an issue. And it’s simple to submit info for transactions that are eligible for Seller Protection.2[Terms apply](https://www.paypal.com/in/legalhub/useragreement-full#seller-protection).
+
+### Valuable insights
+
+Dig into your disputes data with our reporting tools that can help you discover trends, spot opportunities, and improve for the future.
+
+### Resolve disputes on your website
+
+Provide an optional customised dispute resolution experience right on your website. [Learn more about Disputes API](https://developer.paypal.com/docs/api/customer-disputes/v1/?_ga=2.25841717.961589826.1718639064-942070374.1714085565).
+
+## How to go from dispute to resolution
+
+### If a customer raises an issue
+
+You have 20 days to try to resolve things with your customer.*
+
+### If you can’t work it out
+
+Either you or your customer can turn the dispute into a claim and submit related info or supporting documentation. That’s where we come in to help.
+
+### We’ll make the decision
+
+We’ll review the information you and your customer provided in the claim to make the final call.
+
+### Don’t agree? You can always appeal
+
+If the claim is decided in favor of the customer, you can file an appeal to revisit the decision.
+
+Showing page 1 of 2
+
+*Note: Your funds may be temporarily unavailable during a dispute. We’ll hold onto them for you while you try to work things out.
+
+## Disputes and claims? No sweat
+
+If a dispute arises, don’t worry. It’s part of doing business. It’s our business to help you resolve it.
+
+### Stay on top of your activity
+
+Easily find a case and any status info you need by using the search function and filters in the Resolution Centre. You can also spot trends and track case progress.
+
+### Connect with your customers
+
+One of the simplest ways to resolve a dispute with your customers is to communicate with them. Conversations between you and your customers are easy, secure, and hassle-free in our Resolution Centre.
+
+## Frequently asked questions
+
+### How will I know if a customer has filed a dispute?
+
+If one of your customers files a dispute, you will receive an email and a notification in your Business account letting you know. You can also view open cases and catch up on recent activity in the Resolution Centre at any time. [Learn more about the Resolution Centre](https://www.paypal.com/in/cshelp/article/HELP246).
+
+### What can I do to help avoid disputes?
+
+Adding a personalised customer service message to your profile can help. Learn how to add a customer service message. Add tracking info to transaction records when you ship a product to a customer. [Learn more about the Shipping Centre](https://www.paypal.com/in/cshelp/search?q=shipping).
+
+### Can I manage disputes in my website?
+
+Yes, with our Disputes API your customers can submit claims and report issues right on your website. This is a good fit for merchants who experience high dispute volume and have developer resources. Integration and customisation involves some setup and coding. [Read more about Disputes API integration](https://developer.paypal.com/docs/api/customer-disputes/v1/?_ga=2.266034183.961589826.1718639064-942070374.1714085565).
+
+### I do a lot of business on a marketplace. Can my customers contact me there?
+
+Yes, you can enable an option for customers who visit the PayPal Resolution Centre to be redirected to the marketplace. To turn this option on, [contact our sales team](https://www.paypal.com/in/business/contact-sales). If the dispute doesn’t get resolved in the marketplace, they can always come back to PayPal to file a dispute.
+
+## More ways to manage business operations
+
+[Risk Management](https://www.paypal.com/in/business/operations/risk-management)
+
+[Reporting Tools](https://www.paypal.com/in/business/operations/reporting-tools)
+
+[Accept Payments](https://www.paypal.com/in/business/accept-payments)
+
+[Business Resource Centre](https://www.paypal.com/in/brc/)
+
+## We support businesses
+
+## just like yours
+
+Every business needs a reliable payment partner. From secure payment processing to helpful business insights, we’re here for you.
+
+[Sign Up](https://www.paypal.com/in/bizsignup/entry)[Contact Sales](https://www.paypal.com/in/business/contact-sales)
+
+[PayPal Logo](https://www.paypal.com/in/home)
+
+*   [Help](https://www.paypal.com/in/cshelp/personal)
+*   [Contact us](https://www.paypal.com/in/smarthelp/contact-us)
+*   [Fees](https://www.paypal.com/in/business/paypal-business-fees)
+*   [Security](https://www.paypal.com/in/webapps/mpp/paypal-safety-and-security)
+*   [Shop](https://www.paypal.com/in/webapps/mpp/online-shopping)
+
+*   [See all countries/regions](https://www.paypal.com/in/webapps/mpp/country-worldwide)
+
+* * *
+
+*   [About](https://about.pypl.com/home/default.aspx)
+*   [Newsroom](https://newsroom.in.paypal-corp.com/)
+*   [Jobs](https://careers.pypl.com/home/)
+*   [Developers](https://developer.paypal.com/?_ga=2.100145246.1518496856.1738085415-590894427.1731334352)
+*   [Partners](https://www.paypal.com/in/business)
+
+* * *
+
+*   [Accessibility](https://www.paypal.com/in/webapps/mpp/accessibility)
+*   [Cookies](https://www.paypal.com/myaccount/privacy/cookiePrefs)
+*   [Privacy](https://www.paypal.com/privacy-center)
+*   [CSR](https://www.paypalobjects.com/marketing/web/in/footer/CSR-Policy-Board-Approved.pdf)
+*   [Annual Returns](https://www.paypalobjects.com/marketing/web/in/footer/4pl_annual_returns_fy_24_25.pdf)
+*   [Legal](https://www.paypal.com/in/legalhub/home)
+
+PayPal Services in India are provided by PayPal Payments Private Limited (CIN U74990MH2009PTC194653). Users are advised to read the [terms and conditions](https://www.paypal.com/in/legalhub/useragreement-full) carefully.
+
+ When you visit or interact with our sites, services, applications, tools or messaging, we or our authorised service providers may use cookies, web beacons, and other similar technologies for storing information to help provide you with a better, faster and safer experience and for advertising purposes. Learn more [here](https://www.paypal.com/in/legalhub/privacy-full#7).
+
+All screen images shown are for illustrative purposes only. Actual experience will be based on account activity.
+
+Please note that charges may apply depending on the terms and coverage with your phone provider.
+
+1
+
+Terms, exclusions and fees apply to the Chargeback Protection tool. Chargeback Protection is available for accounts enrolled in Advanced Credit and Debit Card Payments. [Terms apply](https://www.paypal.com/in/webapps/mpp/ua/pocpsa-full).
+
+2
+
+Seller Protection is available on eligible purchases. [Terms apply](https://www.paypal.com/in/webapps/mpp/ua/seller-protection).
+
+#### If you accept cookies, we'll use them to improve and customise your experience and enable our partners to show you personalised PayPal ads when you visit other sites. [Manage cookies and learn more](https://www.paypal.com/myaccount/privacy/cookiePrefs?locale=en_IN)
+
+Accept Decline
+
+Close
+
+Title: How to Respond to a Dispute, Claim or Chargeback
+
+URL Source: https://www.paypal.com/in/security/resolve-disputes
+
+Markdown Content:
+# How to Respond to a Dispute, Claim or Chargeback | PayPal IN
+
+Menu
+
+[PayPal logo](https://www.paypal.com/in/home)
+
+*   [Sign Up](https://www.paypal.com/in/webapps/mpp/account-selection)
+
+*   Personal
+
+## [PayPal for You](https://www.paypal.com/in/webapps/mpp/home) 
+
+### Shop and Buy
+
+    *   [Shop with PayPal](https://www.paypal.com/in/webapps/mpp/online-shopping)
+
+    *   [![Image 1: How PayPal works](https://www.paypalobjects.com/marketing/web/US/en/rebrand/pictograms/personal-how-it-works.svg)How PayPal Works](https://www.paypal.com/in/webapps/mpp/consumer-setup)
+    *   [![Image 2: Get the App](https://www.paypalobjects.com/marketing/web/US/en/rebrand/pictograms/personal-app.svg)Get the App](https://www.paypal.com/in/webapps/mpp/pay-with-app)
+    *   [![Image 3: PayPal Buyer Protection](https://www.paypalobjects.com/marketing/web/US/en/rebrand/pictograms/protection-blue.svg)PayPal Buyer Protection](https://www.paypal.com/in/webapps/mpp/paypal-buyer-protection)
+
+*   Small Business
+
+## [PayPal for Business](https://www.paypal.com/in/business) 
+
+### [Accept Payments](https://www.paypal.com/in/business/accept-payments)
+
+    *   [Online Checkout](https://www.paypal.com/in/business/accept-payments/checkout)
+    *   [Payment Links](https://www.paypal.com/in/business/accept-payments/payment-links)
+    *   [Invoicing](https://www.paypal.com/in/business/accept-payments/invoice)
+    *   [Recurring Payments](https://www.paypal.com/in/business/accept-payments/checkout/recurring)
+    *   [Checkout Integration](https://www.paypal.com/in/business/accept-payments/checkout/integration)
+
+### [Business Operations](https://www.paypal.com/in/business/operations)
+
+    *   [Risk Management](https://www.paypal.com/in/business/operations/risk-management)
+    *   [Dispute Management](https://www.paypal.com/in/business/operations/dispute-management)
+    *   [Reporting Tools](https://www.paypal.com/in/business/operations/reporting-tools)
+    *   [Platforms & Marketplaces](https://www.paypal.com/in/business/platforms-and-marketplaces)
+
+### Resources
+
+    *   [Business Resource Center](https://www.paypal.com/in/brc/)
+
+    *   [![Image 4: Contact Sales](https://www.paypalobjects.com/marketing/web/US/en/rebrand/pictograms/enterprise-contact.svg)Contact Sales](https://www.paypal.com/in/business/contact-sales)
+    *   [![Image 5: Get Started](https://www.paypalobjects.com/marketing/web/US/en/rebrand/pictograms/business-start.svg)Get Started](https://www.paypal.com/in/business/open-business-account)
+    *   [![Image 6: Fees](https://www.paypalobjects.com/marketing/web/US/en/rebrand/pictograms/business-pricing.svg)Fees](https://www.paypal.com/in/business/paypal-business-fees)
+
+*   Enterprise
+
+## [PayPal for Enterprise](https://www.paypal.com/in/enterprise) 
+
+### Payments
+
+    *   [Marketplaces & Partners](https://www.paypal.com/in/business/platforms-and-marketplaces)
+    *   [Platforms & Solutions](https://www.paypal.com/in/enterprise/platform)
+    *   [Accept PayPal](https://www.paypal.com/in/enterprise/accept-payments)
+    *   [Make Payments](https://www.paypal.com/in/enterprise/make-payments)
+
+### Risks & Operations
+
+    *   [Manage Risk](https://www.paypal.com/in/enterprise/manage-risk)
+    *   [Accelerate Growth](https://www.paypal.com/in/enterprise/accelerate-growth)
+    *   [Streamline Operation](https://www.paypal.com/in/enterprise/streamline-operations)
+
+*   Partners
+
+### [Become a Partner](https://www.paypal.com/in/enterprise/become-a-partner)
+
+    *   [Partner Directory](https://www.paypal.com/in/webapps/mpp/solution-providers)
+
+*   Useful Info
+
+### Resources
+
+    *   [Know your customer (KYC)](https://www.paypal.com/in/webapps/mpp/know-your-customer)
+    *   [Online Security](https://www.paypal.com/in/webapps/mpp/paypal-safety-and-security)
+    *   [Fraud Prevention](https://www.paypal.com/in/webapps/mpp/fraud-prevention)
+    *   [Phishing](https://www.paypal.com/in/webapps/mpp/phishing)
+    *   [PCI Compliance](https://www.paypal.com/in/webapps/mpp/pci-compliance)
+    *   [Foreign Inward Remittance Advise (FIRA)](https://www.paypal.com/in/webapps/mpp/firc-certificate)
+    *   [Tax Deducted at Source & Ariba registration](https://www.paypal.com/in/cshelp/article/what-if-i-can%E2%80%99t-fulfil-tds-tax-deducted-at-source-due-to-the-net-settlement-help992)
+    *   [Help Centre](https://www.paypal.com/in/smarthelp/contact-us)
+
+[Log In](https://www.paypal.com/signin)[Sign Up](https://www.paypal.com/in/webapps/mpp/account-selection)
+
+# Helping you resolve cases
+
+Cases can happen to any seller. Our goal is to make it as easy as possible to respond.
+
+## Understanding disputes, claims, and chargebacks.
+
+If something goes wrong with an order, a customer may open a case. Common types of cases are disputes and claims, which are filed with PayPal, and chargebacks, which are filed with the card issuer. All cases can result in a temporary hold on transaction funds, so it is best to respond quickly.
+
+* * *
+
+*   [Disputes filed with PayPal](https://www.paypal.com/in/security/resolve-disputes)
+*   [Claims filed with PayPal](https://www.paypal.com/in/security/resolve-disputes)
+*   [Chargebacks filed](https://www.paypal.com/in/security/resolve-disputes)
+
+## Resolving a dispute filed with PayPal
+
+When a dispute is filed into PayPal, this is considered the inquiry phrase of a claim or issue related to items not received or items significantly not as described. PayPal allows time for the buyer or seller to work together to resolve the issue filed amicably.
+
+If your customer files a dispute with PayPal, the best approach is to work together to figure out what happened and decide on the best solution.
+
+It’s best to respond to the dispute with your buyer as soon as possible before it turns into a claim. If you don’t respond quickly, we typically see buyers escalating their dispute to a claim approximately after 4 days. However, a dispute can be escalated into a claim within 20 days* from when the dispute is filed.
+
+* * *
+
+## How to respond to your dispute
+
+*   **Step 1:****Notification and login**
+
+First, we’ll email to let you know you’ve received a dispute and place a temporary hold on the transaction funds. Your first step will be to [log in](https://www.paypal.com/signin?returnUri=%2Fdisputes%2F%3Ftype%3Dopen) to your PayPal account and click on Open Cases in the Resolution Centre.
+
+*   **Step 2:****Find your case**
+
+Click on the Response Required tab to review.
+
+*   **Step 3:****Respond**
+
+Respond quickly to your buyer with an explanation of what happened and suggestions on how to resolve it. We recommend you respond to your buyer as soon as possible before they escalate it to a claim.
+
+ Here are tips for responding to your dispute based on the issue:
+
+    *   **Item Not Received**
+
+For this type of case, you will need to share any relevant information explaining how you delivered the item or service.
+
+e.g. If you’re selling tangible goods and you haven’t shipped the order, share an explanation of why it hasn’t been shipped and offer a refund if necessary. If you shipped the order, share the shipping receipt or online tracking order with your buyer. Inform your buyer of the expected delivery times and when they may receive it from the courier. If you’re selling intangible goods, it is important to ensure you keep full documentation or records of the delivery of service, e.g. proof of download or email receipts.
+    
+
+    *   **Significantly Not as Described**
+
+For this type of case, you will need to inform your buyer that the item or service provided is in line with item and service promised to the buyer before payment. Communicate or respond back with how you had accurately described the product or service and ensure you respond to the case with relevant details.
+
+You can find more information on how to provide the right documents for your case [here](https://www.paypal.com/in/cshelp/article/how-do-i-respond-to-a-paypal-dispute-filed-by-my-buyer-help237). 
+
+After responding, you can work together with the customer on a resolution and the customer may close the case. If you can’t reach a resolution, either of you can escalate the case to a claim.
+
+You can read more on our[Help Centre](https://www.paypal.com/in/cshelp/article/how-do-i-respond-to-a-paypal-dispute-filed-by-my-buyer-help237) on [how to respond to a dispute](https://www.paypal.com/in/cshelp/article/how-do-i-respond-to-a-paypal-dispute-filed-by-my-buyer-help237). 
+
+[See Open Cases](https://www.paypal.com/signin?returnUri=%2Fdisputes%2F%3Ftype%3Dopen)
+
+*Timeline is subject to change. The buyer or seller may choose to escalate the dispute to a claim earlier rather than wait 20 days. If there is no response after 20 days, the case will be closed.
+
+## Resolving a claim filed with PayPal
+
+If a customer files a claim with PayPal or a dispute is escalated to a claim, we’ll step in to review the details and determine a solution.
+
+You will be asked to provide information and evidence based on the type of issue the claim was escalated on:
+
+*   **For Item Not Received** claims, you will need to prove that the item and service were delivered to your buyer.
+
+*   **For a Significantly Not as Described** claim, you will need to prove that the item or service provided is in line with the item and service promised to the buyer before payment.
+
+*   **For an Unauthorised Transaction** claim, if you are eligible for [Seller Protection](https://www.paypal.com/in/webapps/mpp/paypal-safety-and-security), you will need to prove that you have fulfilled the transaction and incurred a loss.
+
+Here are just some examples of the details we may ask you to provide:
+
+*   **Proof of shipment or delivery**, like a third-party shipping receipt, online tracking number, or signature confirmation. Ensure the shipping receipt matches your customer’s address in the transaction details.
+
+*   **Proof of replacement delivery or refund** if the customer received their order but claimed there was an issue with it. 
+
+*   **A signed contract** or other proof that services were provided.
+*   **Proof of download** if you sold a digital product. 
+
+*   **Proof of fulfilment** if you sold other intangible goods e.g. digital receipt.
+
+Make sure you respond to your customer as soon as possible. You generally have up to 10 days to respond however PayPal may also communicate a specific timeline by which you need to respond. You will need to provide all the information requested so we can work towards the best outcome for your eligible claim.*
+
+* * *
+
+## How to appeal a claim:
+
+If a claim is decided in favour of the customer, you may be able to appeal it. The decision could be reversed if the item was returned to you in a different condition as the customer first received it, the item wasn’t returned, or the wrong item was returned.
+
+Steps to appeal a claim:
+
+1.   [Log in](https://www.paypal.com/signin?returnUri=%2Fdisputes%2F%3Ftype%3Dopen) to your PayPal account
+2.   Go to the Resolution Centre
+3.   Go to the Closed Cases section
+4.   Select Case Details
+5.   Click on the Appeal link
+
+After you file your appeal, we may ask you for documentation or to fill out a declaration. Then we’ll have a representative review your claim. If an appeal is granted, you’ll be reimbursed for the eligible transaction.
+
+[Get started](https://www.paypal.com/signin?returnUri=%2Fdisputes%2F%3Ftype%3Dopen)
+
+*PayPal may determine the outcome of your claim in a shorter time frame. PayPal may also take action based on eligibility requirements set forth in the User Agreement, any additional information provided during the resolution process, or any other information PayPal deems relevant and appropriate under the circumstances – such as your claim history.
+
+## Resolving a chargeback
+
+When a customer files a chargeback, the issuer initiates and reviews the case, rather than PayPal. You’ll need to login into PayPal and respond to the chargeback filed in the Resolution Centre. Once you respond, our team of chargeback specialists will use your response and collect information about the eligible transaction to build a case to take to the card issuer or financial institution, assuming you have reason to dispute the chargeback.
+
+Customers generally have up to 180 days after an order was placed to file a chargeback. You generally have up to 10 days after it was issued to respond.*
+
+* * *
+
+## How to respond to your chargeback
+
+*   **Step 1:****Notification and login**
+
+First, the card issuer notifies our merchant bank and withdraws the transaction funds from PayPal. We’ll send you a notification with a request for information and place a temporary hold on the transaction funds. Your first step will be to [log in](https://www.paypal.com/signin?returnUri=%2Fdisputes%2F%3Ftype%3Dopen) to your PayPal account and click on Open Cases in the Resolution Centre.
+
+*   **Step 2:****Find your case**
+
+Click on the Response Required tab to review.
+
+*   **Step 3:****Respond**
+
+Respond quickly and provide us with information related to the chargeback, including transaction records like proof of shipment.
+
+You can find more detailed information on how to provide the right documents for your case in our Help Centre.
+
+After you respond, the chargeback specialist will dispute the chargeback on your behalf and try to recover your eligible funds from the customer’s card issuer.
+
+**If the card issuer decides in your favour**, the customer will be charged for the transaction, and you'll get your eligible funds back.
+
+**If the card issuer decides in favour of the customer**, the customer will receive a full refund. If you provide sufficient evidence and qualify for PayPal Seller Protection, we can cover your loss on eligible transactions.** [Learn more](https://www.paypal.com/in/webapps/mpp/ua/useragreement-full#seller-protection).
+
+It's our mission to help you resolve the chargeback. Although it typically takes 30 days for us to dispute a chargeback, it may take your customer’s card issuer up to 75 days to make a final decision.* We appreciate your patience as we work to help resolve the chargeback on your behalf.
+
+[See Open Cases](https://www.paypal.com/signin?returnUri=%2Fdisputes%2F%3Ftype%3Dopen)
+
+*Timeline may vary by financial institution.
+
+ **Only available for eligible purchases. Terms and Conditions apply.
+
+**Disputes filed with PayPal**
+
+Resolving a dispute filed with PayPal
+
+ When a dispute is filed into PayPal, this is considered the inquiry phrase of a claim or issue related to items not received or items significantly not as described. PayPal allows time for the buyer or seller to work together to resolve the issue filed amicably.
+
+If your customer files a dispute with PayPal, the best approach is to work together to figure out what happened and decide on the best solution.
+
+ It’s best to respond to the dispute with your buyer as soon as possible before it turns into a claim. If you don’t respond quickly, we typically see buyers escalating their dispute to a claim approximately after 4 days. However, a dispute can be escalated into a claim within 20 days* from when the dispute is filed. 
+
+How to respond to your dispute
+
+**Step 1 : Notification and login**
+
+First, we’ll email to let you know you’ve received a dispute and place a temporary hold on the transaction funds. Your first step will be to [log in](https://www.paypal.com/signin?returnUri=%2Fdisputes%2F%3Ftype%3Dopen) to your PayPal account and click on Open Cases in the Resolution Center. 
+
+**Step 2: Find your case**
+
+Click on the Response Required tab to review.
+
+**Step 3: Respond**
+
+Respond quickly to your buyer with an explanation of what happened and suggestions on how to resolve it. We recommend you respond to your buyer as soon as possible before they escalate it to a claim.
+
+ Here are tips for responding to your dispute based on the issue:
+
+*   **Item Not Received**
+
+For this type of case, you will need to share any relevant information explaining how you delivered the item or service.
+
+e.g. If you’re selling tangible goods and you haven’t shipped the order, share an explanation of why it hasn’t been shipped and offer a refund if necessary. If you shipped the order, share the shipping receipt or online tracking order with your buyer. Inform your buyer of the expected delivery times and when they may receive it from the courier. If you’re selling intangible goods, it is important to ensure you keep full documentation or records of the delivery of service, e.g. proof of download or email receipts. 
+
+*   **Significantly Not as Described**
+
+For this type of case, you will need to inform your buyer that the item or service provided is in line with item and service promised to the buyer before payment. Communicate or respond back with how you had accurately described the product or service and ensure you respond to the case with relevant details.
+
+ You can find more information on how to provide the right documents for your case [here](https://www.paypal.com/in/cshelp/article/how-do-i-respond-to-a-paypal-dispute-filed-by-my-buyer-help237).
+
+After responding, you can work together with the customer on a resolution and the customer may close the case. If you can’t reach a resolution, either of you can escalate the case to a claim.
+
+You can read more on our[Help Center](https://www.paypal.com/in/cshelp/article/how-do-i-respond-to-a-paypal-dispute-filed-by-my-buyer-help237) on [how to respond to a dispute](https://www.paypal.com/in/cshelp/article/how-do-i-respond-to-a-paypal-dispute-filed-by-my-buyer-help237).
+
+[See Open Cases](https://www.paypal.com/signin?returnUri=%2Fdisputes%2F%3Ftype%3Dopen)
+
+*Timeline is subject to change. The buyer or seller may choose to escalate the dispute to a claim earlier rather than wait 20 days. If there is no response after 20 days, the case will be closed.
+
+**Claims filed with PayPal**
+
+Resolving a claim filed with PayPal
+
+ If a customer files a claim with PayPal or a dispute is escalated to a claim, we’ll step in to review the details and determine a solution.
+
+ You will be asked to provide information and evidence based on the type of issue the claim was escalated on:
+
+*   **For Item Not Received** claims, you will need to prove that the item and service were delivered to your buyer.
+
+*   **For a Significantly Not as Described** claim, you will need to prove that the item or service provided is in line with the item and service promised to the buyer before payment.
+
+*   **For an Unauthorized Transaction** claim, if you are eligible for [Seller Protection](https://www.paypal.com/in/webapps/mpp/paypal-safety-and-security), you will need to prove that you have fulfilled the transaction and incurred a loss.
+
+Here are just some examples of the details we may ask you to provide:
+
+*   **Proof of shipment or delivery**, like a third-party shipping receipt, online tracking number, or signature confirmation. Ensure the shipping receipt matches your customer’s address in the transaction details.
+
+*   **Proof of replacement delivery or refund** if the customer received their order but claimed there was an issue with it. 
+
+*   **A signed contract** or other proof that services were provided.
+*   **Proof of download** if you sold a digital product. 
+
+*   **Proof of fulfilment** if you sold other intangible goods e.g. digital receipt.
+
+Make sure you respond to your customer as soon as possible. You generally have up to 10 days to respond however PayPal may also communicate a specific timeline by which you need to respond. You will need to provide all the information requested so we can work towards the best outcome for your eligible claim.*
+
+How to appeal a claim:
+
+ If a claim is decided in favor of the customer, you may be able to appeal it. The decision could be reversed if the item was returned to you in a different condition as the customer first received it, the item wasn’t returned, or the wrong item was returned.
+
+Steps to appeal a claim:
+
+1.   [Log in](https://www.paypal.com/signin?returnUri=%2Fdisputes%2F%3Ftype%3Dopen) to your PayPal account
+2.   Go to the Resolution Center
+3.   Go to the Closed Cases section
+4.   Select Case Details
+5.   Click on the Appeal link
+
+After you file your appeal, we may ask you for documentation or to fill out a declaration. Then we’ll have a representative review your claim. If an appeal is granted, you’ll be reimbursed for the eligible transaction. 
+
+[Get started](https://www.paypal.com/signin?returnUri=%2Fdisputes%2F%3Ftype%3Dopen)
+
+*PayPal may determine the outcome of your claim in a shorter time frame. PayPal may also take action based on eligibility requirements set forth in the User Agreement, any additional information provided during the resolution process, or any other information PayPal deems relevant and appropriate under the circumstances – such as your claim history. 
+
+**Chargebacks filed**
+
+Resolving a chargeback 
+
+ When a customer files a chargeback, the issuer initiates and reviews the case, rather than PayPal. You’ll need to login into PayPal and respond to the chargeback filed in the Resolution Center. Once you respond,our team of chargeback specialists will use your response and collect information about the eligible transaction to build a case to take to the card issuer or financial institution, assuming you have reason to dispute the chargeback.
+
+Customers generally have up to 180 days after an order was placed to file a chargeback. You generally have up to 10 days after it was issued to respond.*
+
+How to respond to your chargeback
+
+**Step 1: Notification and login**
+
+First, the card issuer notifies our merchant bank and withdraws the transaction funds from PayPal. We’ll send you a notification with a request for information and place a temporary hold on the transaction funds. Your first step will be to [log in](https://www.paypal.com/signin?returnUri=%2Fdisputes%2F%3Ftype%3Dopen) to your PayPal account and click on Open Cases in the Resolution Center.
+
+**Step 2: Find your case**
+
+Click on the Response Required tab to review.
+
+**Step 3: Respond**
+
+Respond quickly and provide us with information related to the chargeback, including transaction records like proof of shipment. 
+
+You can find more detailed information on how to provide the right documents for your case in our Help Center.
+
+After you respond, the chargeback specialist will dispute the chargeback on your behalf and try to recover your eligible funds from the customer’s card issuer. 
+
+**If the card issuer decides in your favor**, the customer will be charged for the transaction, and you'll get your eligible funds back. 
+
+**If the card issuer decides in favor of the customer**, the customer will receive a full refund. If you provide sufficient evidence and qualify for PayPal Seller Protection, we can cover your loss on eligible transactions.** [Learn more](https://www.paypal.com/in/webapps/mpp/ua/useragreement-full#seller-protection).
+
+It's our mission to help you resolve the chargeback. Although it typically takes 30 days for us to dispute a chargeback, it may take your customer’s card issuer up to 75 days to make a final decision.* We appreciate your patience as we work to help resolve the chargeback on your behalf.
+
+[See Open Cases](https://www.paypal.com/signin?returnUri=%2Fdisputes%2F%3Ftype%3Dopen)
+
+*Timeline may vary by financial institution.
+
+**Only available for eligible purchases. Terms and Conditions apply. 
+
+## Tips for positive communication
+
+Cases can happen to any seller and handling them well can go a long way towards keeping customers happy. Here are a few tips for communicating effectively throughout the process.
+
+### **Assume the best**
+
+Begin conversations with an open mind and listen patiently. Many problems result from miscommunication or a simple human error, and this 
+
+is your opportunity to clear them up.
+
+### **Stay focused on solutions**
+
+Take a proactive, friendly approach to resolving the issue and resist the temptation to let communications become negative as this can make coming to an agreement harder.
+
+### **Be constructive**
+
+Let your customer know you want to find a resolution – they likely want the same thing. Showing mutual respect can help set the stage for a positive and productive conversation.
+
+### **Think long-term**
+
+Give your customer a break today and you could open the door to more opportunities tomorrow.
+
+Explore more ways to foster positive communications with customers and [help avoid cases](https://www.paypal.com/in/webapps/mpp/security/disputes-chargebacks).
+
+## PayPal Seller Protection
+
+For your peace of mind,**PayPal’s Seller Protection**program can help protect your online payments against unauthorised transactions and outcomes from transactional disputes or chargebacks.* Check your eligibility for PayPal Seller Protection to ensure you meet all requirements.
+
+[Learn more](https://www.paypal.com/in/webapps/mpp/paypal-safety-and-security)
+
+*Terms and conditions apply.
+
+Our information does not constitute legal, financial, or business advice. We are not responsible for your decision on disputes and chargebacks. Always do your own research and seek professional advice if needed.
+
+[PayPal Logo](https://www.paypal.com/in/home)
+
+*   [Help](https://www.paypal.com/in/cshelp/personal)
+*   [Contact us](https://www.paypal.com/in/smarthelp/contact-us)
+*   [Fees](https://www.paypal.com/in/business/paypal-business-fees)
+*   [Security](https://www.paypal.com/in/webapps/mpp/paypal-safety-and-security)
+*   [Shop](https://www.paypal.com/in/webapps/mpp/online-shopping)
+
+*   [See all countries/regions](https://www.paypal.com/in/webapps/mpp/country-worldwide)
+
+* * *
+
+*   [About](https://about.pypl.com/home/default.aspx)
+*   [Newsroom](https://newsroom.in.paypal-corp.com/)
+*   [Jobs](https://careers.pypl.com/home/)
+*   [Developers](https://developer.paypal.com/?_ga=2.100145246.1518496856.1738085415-590894427.1731334352)
+*   [Partners](https://www.paypal.com/in/business)
+
+* * *
+
+*   [Accessibility](https://www.paypal.com/in/webapps/mpp/accessibility)
+*   [Cookies](https://www.paypal.com/myaccount/privacy/cookiePrefs)
+*   [Privacy](https://www.paypal.com/privacy-center)
+*   [CSR](https://www.paypalobjects.com/marketing/web/in/footer/CSR-Policy-Board-Approved.pdf)
+*   [Annual Returns](https://www.paypalobjects.com/marketing/web/in/footer/4pl_annual_returns_fy_24_25.pdf)
+*   [Legal](https://www.paypal.com/in/legalhub/home)
+
+PayPal Services in India are provided by PayPal Payments Private Limited (CIN U74990MH2009PTC194653). Users are advised to read the [terms and conditions](https://www.paypal.com/in/legalhub/useragreement-full) carefully.
+
+ When you visit or interact with our sites, services, applications, tools or messaging, we or our authorised service providers may use cookies, web beacons, and other similar technologies for storing information to help provide you with a better, faster and safer experience and for advertising purposes. Learn more [here](https://www.paypal.com/in/legalhub/privacy-full#7).
+
+#### If you accept cookies, we'll use them to improve and customise your experience and enable our partners to show you personalised PayPal ads when you visit other sites. [Manage cookies and learn more](https://www.paypal.com/myaccount/privacy/cookiePrefs?locale=en_IN)
+
+Accept Decline
+
+Close
+
+Title: Dispute Resolution & Claims Management for Buyers - PayPal India
+
+URL Source: https://www.paypal.com/in/webapps/mpp/buyer-dispute-resolution
+
+Markdown Content:
+## Resolving a dispute with your seller.
+
+In the unlikely event that you purchase an item but it never arrives; you did not authorise the purchase, or your order arrives but turns out different, we’ll help you resolve it and get your money back.
+
+1
+
+If there’s a problem file a dispute in our Resolution Center.
+
+2
+
+Provide information about the issue, communicate with the seller to resolve the problem and close the dispute.
+
+3
+
+If it can’t be resolved, escalate it to a claim and we’ll step in to investigate and gather additional information before reaching a decision.
+
+4
+
+The money will be refunded to you if the claim is decided in your favour.
+
+## Here’s what you can do.
+
+*   Check your item delivery status using the tracking number or contact the seller’s customer service. Sometimes unexpected delays happen due to weather conditions or customs issues
+*   Make sure that the suspicious activity you observe isn’t from a family member using your account without your knowledge, or from a recurring payment such as a monthly subscription
+*   Provide the details about the issue to help us decide on the best solution to resolve it
+
+## Every purchase matters.
+
+Shop with peace of mind with our Buyer Protection policy. We will refund the full amount, if an eligible item doesn’t show up or shows up significantly different than described.
+
+[More about Buyer Protection](https://www.paypal.com/in/webapps/mpp/paypal-buyer-protection)
+
+## Frequently asked questions
+
+[](https://www.paypal.com/in/webapps/mpp/buyer-dispute-resolution#)How do I open a dispute with a seller when a purchase goes wrong?​
+
+You can open a dispute in the Resolution Center if you didn’t receive an item you ordered or the item you ordered arrives and is significantly different to how it was originally described. [Terms and limitations apply](https://www.paypal.com/legalhub/buyer-protection).
+
+If you didn’t authorise the purchase, you can file a dispute in our Resolution Centre within 60 days of payment. By opening a dispute, you can communicate directly with your seller to work out a problem transaction. If you're still not happy with the result, you can escalate the dispute into a claim. We'll review the claim and decide on reimbursement.
+
+[](https://www.paypal.com/in/webapps/mpp/buyer-dispute-resolution#)How do I escalate a dispute to a claim?
+
+If you can’t resolve your dispute with the seller within 20 days, you can escalate it to a claim.Select the open dispute in the Resolution centre Under dispute details, choose to escalate the dispute We’ll review the case and decide if you’re eligible for a refund. 
+
+To check the status of your claim, log in to your account and go to the Resolution Centre.
+
+[](https://www.paypal.com/in/webapps/mpp/buyer-dispute-resolution#)What is the difference between a dispute and a claim?
+
+A dispute is a request from you to the seller to discuss a problem with a transaction and work together to resolve it. You’ll discuss the problem and potential solutions in our Resolution Centre. Sellers are usually eager to come to an amicable solution that works for both of you.
+
+A dispute becomes a claim when you can’t reach agreement with the seller and one of you escalates it to us to determine an outcome. You must escalate your dispute to a claim within 20 days of filing it. By escalating, you’re choosing not to communicate any further with the seller and agreeing to abide by our decision.
+
+[](https://www.paypal.com/in/webapps/mpp/buyer-dispute-resolution#)What items are not covered under Buyer Protection?
+
+There are some transactions that we don't cover including but not limited to payments for:real estate businesses vehicles custom made items and licenses
+
+In addition, items prohibited in our [User Agreement](https://www.paypal.com/in/webapps/mpp/ua/useragreement-full) are ineligible for coverage.
+
+[](https://www.paypal.com/in/webapps/mpp/buyer-dispute-resolution#)How long does it take to investigate my claim?
+
+Most claims are investigated within 10-14 days or less. For more complex cases, we can need up to 30 days (or longer) to decide the outcome of a claim.

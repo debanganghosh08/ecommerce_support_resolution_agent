@@ -1,0 +1,350 @@
+[
+  {
+    "id": "std_1",
+    "type": "Standard",
+    "ticket_text": "I bought a blender 5 days ago and it simply doesn't turn on. I want a refund.",
+    "success": true,
+    "agent_output": {
+      "classification": "Refund - Defective Electronics",
+      "clarifying_questions": [
+        "Is the power cord undamaged?",
+        "Have you tried a different outlet?"
+      ],
+      "decision": "Approve",
+      "rationale": "As per Walmart Standard Return Policy (Chunk 359), electronics are returnable within 30 days. Item is only 5 days old and defective.",
+      "citations": [
+        "Walmart_standard_return_policy.txt | Chunk 359"
+      ],
+      "customer_response_draft": "I am sorry your blender isn't working. Since you are within the 30-day window, we have approved your refund.",
+      "next_steps_internal_notes": "Process standard electronics return."
+    }
+  },
+  {
+    "id": "std_2",
+    "type": "Standard",
+    "ticket_text": "My package says delivered, but it's not on my porch.",
+    "success": true,
+    "agent_output": {
+      "classification": "Shipping - Missing Package",
+      "clarifying_questions": [
+        "Have you checked with neighbors?",
+        "Did you see a photo in tracking?"
+      ],
+      "decision": "Escalate",
+      "rationale": "FedEx policy (Chunk 70) requires reporting a missing package via 'Manage Delivery' if status is delivered but item is absent.",
+      "citations": [
+        "fedex_lost_package_claim_steps_deadlines.txt | Chunk 70"
+      ],
+      "customer_response_draft": "I'm sorry you can't find your package. Please follow the 'Report Missing' steps on the tracking page while we escalate this.",
+      "next_steps_internal_notes": "Trace package with carrier."
+    }
+  },
+  {
+    "id": "std_3",
+    "type": "Standard",
+    "ticket_text": "I received a shirt but it's a size Small and I ordered a Large.",
+    "success": true,
+    "agent_output": {
+      "classification": "Refund - Wrong Item",
+      "clarifying_questions": [],
+      "decision": "Approve",
+      "rationale": "Target policy (Chunk 308) includes shipping in the refund for 'Wrong item received'.",
+      "citations": [
+        "target_return_policy.txt | Chunk 308"
+      ],
+      "customer_response_draft": "We apologize for sending the wrong size. We have approved a full refund including shipping.",
+      "next_steps_internal_notes": "Issue return label for incorrect item."
+    }
+  },
+  {
+    "id": "std_4",
+    "type": "Standard",
+    "ticket_text": "My order arrived 3 days after the estimated delivery date.",
+    "success": true,
+    "agent_output": {
+      "classification": "Shipping - Late Delivery",
+      "clarifying_questions": [],
+      "decision": "Partial",
+      "rationale": "Target policy (Chunk 308) lists 'Arrived after estimated delivery date' as a qualifying reason for a shipping refund.",
+      "citations": [
+        "target_return_policy.txt | Chunk 308"
+      ],
+      "customer_response_draft": "Since your order arrived late, we have processed a refund for your shipping costs.",
+      "next_steps_internal_notes": "Refund shipping fee only."
+    }
+  },
+  {
+    "id": "std_5",
+    "type": "Standard",
+    "ticket_text": "I bought a TV 2 weeks ago and want to return it for a refund.",
+    "success": true,
+    "agent_output": {
+      "classification": "Refund - Electronics",
+      "clarifying_questions": [
+        "Do you have the original packaging?"
+      ],
+      "decision": "Approve",
+      "rationale": "Walmart policy (Chunk 359) allows returns for consumer electronics within 30 days.",
+      "citations": [
+        "Walmart_standard_return_policy.txt | Chunk 359"
+      ],
+      "customer_response_draft": "Your TV return is within the 30-day window. Please bring it to any store with your receipt.",
+      "next_steps_internal_notes": "Verify item condition upon arrival."
+    }
+  },
+  {
+    "id": "std_6",
+    "type": "Standard",
+    "ticket_text": "The lamp I ordered arrived with a shattered base.",
+    "success": true,
+    "agent_output": {
+      "classification": "Refund - Damaged Item",
+      "clarifying_questions": [
+        "Can you provide a photo of the damage?"
+      ],
+      "decision": "Approve",
+      "rationale": "Target policy (Chunk 308) qualifies 'Damaged / Broken upon arrival' for a full refund including shipping.",
+      "citations": [
+        "target_return_policy.txt | Chunk 308"
+      ],
+      "customer_response_draft": "We are so sorry your lamp was damaged. We have initiated a full refund for you.",
+      "next_steps_internal_notes": "Process damage claim with warehouse."
+    }
+  },
+  {
+    "id": "std_7",
+    "type": "Standard",
+    "ticket_text": "I received my table but the assembly hardware is missing.",
+    "success": true,
+    "agent_output": {
+      "classification": "Refund/Replacement - Missing Parts",
+      "clarifying_questions": [
+        "Which specific bolts are missing?"
+      ],
+      "decision": "Approve",
+      "rationale": "Target policy (Chunk 308) covers 'Missing parts' as a valid reason for refund or free replacement.",
+      "citations": [
+        "target_return_policy.txt | Chunk 308"
+      ],
+      "customer_response_draft": "We apologize for the missing parts. We can send a replacement hardware kit immediately.",
+      "next_steps_internal_notes": "Ship hardware kit SKU: HW-01."
+    }
+  },
+  {
+    "id": "std_8",
+    "type": "Standard",
+    "ticket_text": "I bought a book but I decided I don't want it anymore. It's still in the wrap.",
+    "success": true,
+    "agent_output": {
+      "classification": "Refund - Change of Mind",
+      "clarifying_questions": [],
+      "decision": "Approve",
+      "rationale": "eBay policy (Chunk 24) states most sellers accept returns if you changed your mind, provided the item is in new condition.",
+      "citations": [
+        "ebay_buyer_order_cancellation_policy.txt | Chunk 24"
+      ],
+      "customer_response_draft": "Since the book is still sealed, you may return it for a refund within the standard window.",
+      "next_steps_internal_notes": "Standard restocking process."
+    }
+  },
+  {
+    "id": "exc_1",
+    "type": "Exception",
+    "ticket_text": "I want to return this laptop I bought 4 months ago.",
+    "success": true,
+    "agent_output": {
+      "classification": "Refund - Out of Window",
+      "clarifying_questions": [],
+      "decision": "Deny",
+      "rationale": "Walmart policy (Chunk 359) restricts electronics returns to a 30-day window. This request is at ~120 days.",
+      "citations": [
+        "Walmart_standard_return_policy.txt | Chunk 359"
+      ],
+      "customer_response_draft": "Unfortunately, we cannot accept this return as it is outside the 30-day electronics return window.",
+      "next_steps_internal_notes": "Close ticket."
+    }
+  },
+  {
+    "id": "exc_2",
+    "type": "Exception",
+    "ticket_text": "I lost my receipt but I need to return this vacuum.",
+    "success": true,
+    "agent_output": {
+      "classification": "Refund - No Receipt",
+      "clarifying_questions": [
+        "Did you pay with a credit card?"
+      ],
+      "decision": "Partial",
+      "rationale": "Target policy (Chunk 327) allows for receipt lookup via payment card or a merchandise return card if a receipt is missing.",
+      "citations": [
+        "target_return_policy.txt | Chunk 327"
+      ],
+      "customer_response_draft": "While you don't have the receipt, we can try to look up your purchase using the card you used.",
+      "next_steps_internal_notes": "Verify payment card in-store."
+    }
+  },
+  {
+    "id": "exc_3",
+    "type": "Exception",
+    "ticket_text": "I opened this lipstick and used it once, but I hate the color. Can I return it?",
+    "success": true,
+    "agent_output": {
+      "classification": "Refund - Opened Beauty",
+      "clarifying_questions": [],
+      "decision": "Approve",
+      "rationale": "Target policy (Chunk 294) allows beauty items to be returned even if opened within 90 days.",
+      "citations": [
+        "target_return_policy.txt | Chunk 294"
+      ],
+      "customer_response_draft": "Yes, our beauty policy allows returns on opened items within 90 days. Feel free to bring it back.",
+      "next_steps_internal_notes": "Dispose of opened cosmetic per safety guidelines."
+    }
+  },
+  {
+    "id": "exc_4",
+    "type": "Exception",
+    "ticket_text": "I want to return these Pokemon cards I bought yesterday.",
+    "success": true,
+    "agent_output": {
+      "classification": "Refund - Trading Cards",
+      "clarifying_questions": [],
+      "decision": "Deny",
+      "rationale": "As of Jan 30, 2023, trading cards are no longer returnable under Target policy (Chunk 294).",
+      "citations": [
+        "target_return_policy.txt | Chunk 294"
+      ],
+      "customer_response_draft": "Per our updated policy, trading card sales are final and cannot be returned.",
+      "next_steps_internal_notes": "Inform customer of non-returnable categories."
+    }
+  },
+  {
+    "id": "exc_5",
+    "type": "Exception",
+    "ticket_text": "I want a refund on my customized monogrammed towels. They don't match my wall.",
+    "success": true,
+    "agent_output": {
+      "classification": "Refund - Custom Goods",
+      "clarifying_questions": [],
+      "decision": "Deny",
+      "rationale": "Etsy/eBay policy (Chunk 9) indicates sellers are not required to accept returns on custom items for 'change of mind'.",
+      "citations": [
+        "Cancellation_Policy_ Etsy.pdf | Chunk 9"
+      ],
+      "customer_response_draft": "Because these towels were monogrammed specifically for you, we cannot offer a refund for color preference.",
+      "next_steps_internal_notes": "Standard custom item denial."
+    }
+  },
+  {
+    "id": "exc_6",
+    "type": "Exception",
+    "ticket_text": "The cookies I ordered for my party arrived entirely melted.",
+    "success": true,
+    "agent_output": {
+      "classification": "Refund - Perishables",
+      "clarifying_questions": [],
+      "decision": "Approve",
+      "rationale": "Target policy (Chunk 308) covers damaged perishables for full refunds when delivered in poor condition.",
+      "citations": [
+        "target_return_policy.txt | Chunk 308"
+      ],
+      "customer_response_draft": "We are sorry your cookies arrived melted. We have issued a full refund to your original payment method.",
+      "next_steps_internal_notes": "Notify fulfillment of temperature control issue."
+    }
+  },
+  {
+    "id": "con_1",
+    "type": "Conflict",
+    "ticket_text": "I know your policy says no returns on custom items, but California Law says I have 30 days.",
+    "success": true,
+    "agent_output": {
+      "classification": "Legal Dispute",
+      "clarifying_questions": [],
+      "decision": "Escalate",
+      "rationale": "User is citing local law against internal policy. Legal conflicts must be escalated for compliance review.",
+      "citations": [
+        "Internal Safety Protocol v1"
+      ],
+      "customer_response_draft": "We have forwarded your request to our legal compliance team for further review.",
+      "next_steps_internal_notes": "Forward to Legal Dept."
+    }
+  },
+  {
+    "id": "con_2",
+    "type": "Conflict",
+    "ticket_text": "Nike said my birthday code would work on everything, but it's not applying to these Jordans.",
+    "success": true,
+    "agent_output": {
+      "classification": "Promo Conflict",
+      "clarifying_questions": [],
+      "decision": "Deny",
+      "rationale": "Nike Promo Terms (Chunk 178) often exclude specific high-demand styles from birthday discounts.",
+      "citations": [
+        "nike_promo_terms_and_conditions.txt | Chunk 178"
+      ],
+      "customer_response_draft": "Birthday rewards exclude certain limited-edition styles. Please refer to the exclusions list in your email.",
+      "next_steps_internal_notes": "Verify SKU against exclusion list."
+    }
+  },
+  {
+    "id": "con_3",
+    "type": "Conflict",
+    "ticket_text": "The store is trying to charge me a 15% restocking fee. My brother says that is illegal.",
+    "success": true,
+    "agent_output": {
+      "classification": "Fee Dispute",
+      "clarifying_questions": [],
+      "decision": "Escalate",
+      "rationale": "Conflict regarding restocking fees requires management approval to waive or enforce.",
+      "citations": [
+        "Walmart_standard_return_policy.txt | Chunk 360"
+      ],
+      "customer_response_draft": "We are looking into the restocking fee applied to your return and will contact you shortly.",
+      "next_steps_internal_notes": "Manager review required."
+    }
+  },
+  {
+    "id": "oob_1",
+    "type": "Out-of-Scope",
+    "ticket_text": "I forgot my password and my email is hacked. How do I log in?",
+    "success": true,
+    "agent_output": {
+      "classification": "Account Security",
+      "clarifying_questions": [],
+      "decision": "Escalate",
+      "rationale": "Ticket is regarding account security, not commerce. No policy coverage found.",
+      "citations": [],
+      "customer_response_draft": "Please contact our Security Team at security@company.com to verify your identity.",
+      "next_steps_internal_notes": "Redirect to IT Security."
+    }
+  },
+  {
+    "id": "oob_2",
+    "type": "Out-of-Scope",
+    "ticket_text": "What is the capital of France? I need it for my homework.",
+    "success": true,
+    "agent_output": {
+      "classification": "General Inquiry",
+      "clarifying_questions": [],
+      "decision": "Abstain",
+      "rationale": "The inquiry is a general knowledge question unrelated to our support services.",
+      "citations": [],
+      "customer_response_draft": "While we'd love to help, we can only answer questions related to your orders and our policies.",
+      "next_steps_internal_notes": "Close as out of scope."
+    }
+  },
+  {
+    "id": "oob_3",
+    "type": "Out-of-Scope",
+    "ticket_text": "Can you give me the recipe for the cookies I just bought?",
+    "success": true,
+    "agent_output": {
+      "classification": "Product Inquiry - Recipe",
+      "clarifying_questions": [],
+      "decision": "Deny",
+      "rationale": "Proprietary recipes are not part of the public support policy database.",
+      "citations": [],
+      "customer_response_draft": "Our recipes are proprietary, but we can provide an ingredient list for allergy concerns.",
+      "next_steps_internal_notes": "Send ingredient PDF if requested."
+    }
+  }
+]

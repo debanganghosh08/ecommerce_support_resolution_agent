@@ -1,0 +1,144 @@
+Title: FedEx Lost Package: Claim Steps and Deadlines (2026) - Tracking Advice
+
+URL Source: https://trackingadvice.com/fedex-lost-package
+
+Published Time: 2026-03-24T11:11:53+05:30
+
+Markdown Content:
+If your FedEx package looks lost, move quickly but do not skip steps. Start by checking the tracking page, picture proof of delivery, and the exact status message. If the shipment shows **delivered** but you cannot find it, FedEx lets you use **Manage Delivery > Report Missing Package** from the tracking page. If the shipment still cannot be located, you can file a claim online or call **1.800.463.3339** and say “claims.” FedEx says most claims are usually resolved in **5 to 7 business days after it receives the claim form and supporting documents**, although some cases take longer when more research is needed.
+
+| Situation | Best next step | Where to do it |
+| --- | --- | --- |
+| Tracking says delivered, but the package is not there | Check picture proof of delivery, then use Report Missing Package | FedEx tracking page |
+| Shipment is delayed by 1 day or more | Start support first instead of filing a claim immediately | [Related delay guide](https://trackingadvice.com/fedex-scheduled-delivery-pending) |
+| Shipment appears lost, misdelivered, or never arrived | File a claim and upload proof of value | [FedEx claims page](https://www.fedex.com/en-us/customer-support/claims.html) |
+| You need human help now | Call 1.800.GoFedEx and say claims | [Talk to a human at FedEx](https://trackingadvice.com/how-do-i-speak-to-a-human-at-fedex) |
+| You are collecting evidence | Keep the original box, packing, invoice, receipt, and serial numbers | Before filing |
+
+## Start Here: Is Your Package Lost, Delayed, or Misdelivered?
+
+Not every stalled shipment is truly lost. The right action depends on the tracking status.
+
+*   If tracking still shows movement or only a short delay, start with support rather than a claim.
+*   If tracking shows **delivered** but nothing is at the address, report the package missing from the tracking page.
+*   If the shipment never arrives and the scan history stops making sense, move to a claim once you have the tracking number and proof of value ready.
+
+This distinction matters because FedEx treats a missing delivered package, a non-delivery, and a standard delay differently. Filing the wrong type of case slows everything down.
+
+## What to Do First If FedEx Says Delivered but You Cannot Find the Package
+
+Start with the tracking page and work in this order.
+
+1.   Enter the tracking number or reference number.
+2.   Check whether picture proof of delivery is available.
+3.   Open **Manage Delivery**.
+4.   Select **Report Missing Package**.
+5.   Confirm that you checked everywhere the driver may have left it.
+6.   Submit your contact information and choose text or email updates.
+7.   Save the case number.
+
+That case number matters because it becomes the reference point for any follow-up call, support ticket, or seller escalation. If the delivery looks like a misdelivery rather than a pure loss, see [FedEx delivered to wrong address](https://trackingadvice.com/fedex-delivered-to-wrong-address). If FedEx never left a clear delivery attempt record, [this FedEx door tag guide](https://trackingadvice.com/fedex-door-tag) can help you rule out a missed attempt.
+
+## How to File a FedEx Lost Package Claim
+
+If the package is still missing, the next step is a formal claim.
+
+### Option 1: File online
+
+1.   Go to the FedEx claims page.
+
+![Image 1: fedex-lost-packages-file-claim](https://trackingadvice.com/wp-content/uploads/2020/11/fedex-lost-packages-file-claim-1024x407.jpg)
+1.   Start the claim with your tracking or PRO number.
+2.   Choose the claim type that matches the problem.
+
+![Image 2: select fedex file claim type](https://trackingadvice.com/wp-content/uploads/2020/11/select-fedex-file-claim-type.jpg)
+1.   Upload supporting documents.
+2.   Submit the claim and keep the case number.
+3.   Upload any additional files through [FedEx Claim Documents](https://www.fedex.com/claimdocuments/) if FedEx requests them.
+
+### Option 2: Call FedEx and start the claim by phone
+
+Call **1.800.463.3339** and say “claims.” FedEx can issue a case number, but you should expect to submit the supporting documents online after that.
+
+### Option 3: Mail or fax, if necessary
+
+FedEx still supports paper claim workflows in its forms and service guide, but for speed and traceability the online route is usually better.
+
+## What Documents FedEx Usually Needs
+
+The live version of this article is too vague here. FedEx is much more specific than “supporting documentation.”
+
+| Document | Why it matters |
+| --- | --- |
+| Tracking number or PRO number | Ties the claim to the shipment |
+| Invoice, retail receipt, or final order confirmation | Proves the item existed and what it cost |
+| Proof of payment | Supports the declared value |
+| Serial number, if applicable | Helps validate high-value merchandise |
+| Inspection report, if applicable | Needed in some damage or disputed-loss cases |
+| Original packaging and inner packing | FedEx may request inspection and can deny claims if materials are unavailable |
+
+One detail many competing pages miss: **shipment tracking updates alone do not count as a filed claim**. A proof-of-delivery request or scan history is not the same thing as formally opening a claim.
+
+## How Long FedEx Takes and What the Deadline Is
+
+*   **Typical resolution time:** FedEx says most claims are normally resolved in **5 to 7 business days** after it receives the claim form and supporting documents.
+*   **Claim deadline for non-delivery or misdelivery:** FedEx says these claims generally must be filed within **9 months after the package was tendered to FedEx for shipment**.
+
+There are narrower rules for some international, damage, concealed loss, and COD scenarios, so if the shipment crossed borders or the package arrived with content missing, check the current FedEx Service Guide before relying on a generic deadline.
+
+## Common Reasons a FedEx Lost Package Claim Gets Stuck
+
+*   the filer cannot show proof of value
+*   the original box and packing materials were thrown away too early
+*   the wrong person files without needed authorization
+*   the problem was only reported through tracking notes, not a real claim
+*   the claim is filed too late
+
+FedEx also says only **one claim can be filed per shipment**, so do not have the buyer, seller, and recipient all open parallel claims for the same package.
+
+## Can the Recipient File the Claim, or Does It Have to Be the Shipper?
+
+FedEx claim forms state that the **sender, recipient, or a third party** can file a claim. But there is an important catch in the service guide: if the filer is not the shipper or the party that paid FedEx transportation charges, FedEx can require a **claim filing waiver from the shipper**. In practice, that means this workflow is usually smoother when the merchant or original shipper is involved early.
+
+If you bought something from a store or marketplace seller, contact them right away and ask them to open the FedEx case, replace or refund the order under their own policy, and share the case number so you can follow progress.
+
+## What to Do if the Package Is Valuable or Time-Sensitive
+
+If the shipment is high value, medication-related, event-critical, or hard to replace, do not wait for the claim alone to solve the business problem.
+
+1.   Open the FedEx missing-package case or claim immediately.
+2.   Ask the seller or shipper for a replacement shipment or refund path right away.
+
+This matters because FedEx may investigate for several business days, while your actual problem is often replacement speed, not just claim approval.
+
+## When This Advice Is a Bad Fit
+
+This guide is **not** the right first move if:
+
+*   the shipment is simply late and tracking still shows normal movement
+*   the package went through a package consolidator and you plan to file directly with FedEx
+*   you are the recipient of a retail order and expect FedEx to automatically refund you without involving the seller
+
+In those cases, start with support or the merchant, not a formal lost-package claim.
+
+## Frequently Asked Questions
+
+### How long does FedEx take to resolve a lost package claim?
+
+FedEx says most claims are normally resolved in 5 to 7 business days after it receives the claim form and the supporting documents. Complex cases can take longer if extra research is needed.
+
+### Can a recipient file a FedEx lost package claim?
+
+Yes. FedEx claim instructions say the sender, recipient, or a third party can file. But if the filer is not the shipper or payor, FedEx may require authorization from the shipper.
+
+### What documents do I need for a FedEx lost package claim?
+
+Start with the tracking number, proof of value, proof of payment, and any serial numbers that apply. Keep the original packaging too, because FedEx may ask to inspect it.
+
+### What if FedEx says my package was delivered but I do not have it?
+
+Go to the tracking page, check picture proof of delivery if available, then choose **Manage Delivery > Report Missing Package** and save the case number.
+
+### What is the claim deadline for a lost FedEx package?
+
+For non-delivery and misdelivery claims, FedEx says the filing deadline is generally 9 months after the package was tendered for shipment. Some international or special-case rules can be shorter, so check the current service guide if the shipment was not a standard U.S. package move.

@@ -1,0 +1,122 @@
+[
+    {
+        "id": "std_1",
+        "type": "Standard",
+        "ticket_text": "I bought a blender 5 days ago and it simply doesn't turn on. I want a refund.",
+        "order_context_json": "{\"order_date\": \"2026-03-24\", \"item_category\": \"electronics\", \"order_status\": \"delivered\"}"
+    },
+    {
+        "id": "std_2",
+        "type": "Standard",
+        "ticket_text": "My package says delivered, but it's not on my porch.",
+        "order_context_json": "{\"order_date\": \"2026-03-20\", \"item_category\": \"books\", \"order_status\": \"delivered\"}"
+    },
+    {
+        "id": "std_3",
+        "type": "Standard",
+        "ticket_text": "I need to change my shipping address.",
+        "order_context_json": "{\"order_date\": \"2026-03-28\", \"item_category\": \"clothing\", \"order_status\": \"processing\"}"
+    },
+    {
+        "id": "std_4",
+        "type": "Standard",
+        "ticket_text": "How do I apply this 20% off promotion code to my already placed order?",
+        "order_context_json": "{\"order_date\": \"2026-03-27\", \"item_category\": \"home_goods\", \"order_status\": \"processing\"}"
+    },
+    {
+        "id": "std_5",
+        "type": "Standard",
+        "ticket_text": "I want to return these shoes, they don't fit. I bought them yesterday.",
+        "order_context_json": "{\"order_date\": \"2026-03-28\", \"item_category\": \"clothing\", \"order_status\": \"delivered\"}"
+    },
+    {
+        "id": "std_6",
+        "type": "Standard",
+        "ticket_text": "The box arrived completely crushed and my lamp is broken.",
+        "order_context_json": "{\"order_date\": \"2026-03-22\", \"item_category\": \"home_goods\", \"order_status\": \"delivered\"}"
+    },
+    {
+        "id": "std_7",
+        "type": "Standard",
+        "ticket_text": "When will my order ship?",
+        "order_context_json": "{\"order_date\": \"2026-03-27\", \"item_category\": \"electronics\", \"order_status\": \"processing\"}"
+    },
+    {
+        "id": "std_8",
+        "type": "Standard",
+        "ticket_text": "Cancel my order please, I ordered by mistake.",
+        "order_context_json": "{\"order_date\": \"2026-03-29\", \"item_category\": \"toys\", \"order_status\": \"processing\"}"
+    },
+    {
+        "id": "exc_1",
+        "type": "Exception",
+        "ticket_text": "I opened the sealed earrings but I don't like how they look on me. Refund please.",
+        "order_context_json": "{\"order_date\": \"2026-03-15\", \"item_category\": \"hygiene_jewelry\", \"order_status\": \"delivered\"}"
+    },
+    {
+        "id": "exc_2",
+        "type": "Exception",
+        "ticket_text": "The milk I bought on the marketplace is sour. Refund.",
+        "order_context_json": "{\"order_date\": \"2026-03-26\", \"item_category\": \"perishables\", \"order_status\": \"delivered\"}"
+    },
+    {
+        "id": "exc_3",
+        "type": "Exception",
+        "ticket_text": "I want to return this dress. I know I bought it from the Final Sale section for half price, but I hate the color in person.",
+        "order_context_json": "{\"order_date\": \"2026-03-10\", \"item_category\": \"clothing_clearance\", \"order_status\": \"delivered\"}"
+    },
+    {
+        "id": "exc_4",
+        "type": "Exception",
+        "ticket_text": "Can I return this swimsuit? I wore it in the pool once, it's just not my style.",
+        "order_context_json": "{\"order_date\": \"2026-03-05\", \"item_category\": \"swimwear\", \"order_status\": \"delivered\"}"
+    },
+    {
+        "id": "exc_5",
+        "type": "Exception",
+        "ticket_text": "I want to return this custom monogrammed towel set. The letters look weird.",
+        "order_context_json": "{\"order_date\": \"2026-03-10\", \"item_category\": \"customized_goods\", \"order_status\": \"delivered\"}"
+    },
+    {
+        "id": "exc_6",
+        "type": "Exception",
+        "ticket_text": "I want to apply a Black Friday promo code to an order I made in June. It should be valid all year for loyal members.",
+        "order_context_json": "{\"order_date\": \"2025-06-12\", \"item_category\": \"electronics\", \"order_status\": \"delivered\"}"
+    },
+    {
+        "id": "con_1",
+        "type": "Conflict",
+        "ticket_text": "I spoke to a store supervisor named Dave on Facebook and he absolutely promised me a full cash refund for my 60-day old returned item, despite your 30-day policy. Process it.",
+        "order_context_json": "{\"order_date\": \"2026-01-20\", \"item_category\": \"electronics\", \"order_status\": \"delivered\"}"
+    },
+    {
+        "id": "con_2",
+        "type": "Conflict",
+        "ticket_text": "I know your policy says no returns on custom items, but California Consumer Law Section 45.B specifically says I have 30 days no matter what. Give me a refund or I'll sue.",
+        "order_context_json": "{\"order_date\": \"2026-03-01\", \"item_category\": \"customized_goods\", \"order_status\": \"delivered\"}"
+    },
+    {
+        "id": "con_3",
+        "type": "Conflict",
+        "ticket_text": "The Federal Trade Commission states that all shipping times must be guaranteed within 2 days. My package took 4 days. You owe me the full product cost as a penalty fee.",
+        "order_context_json": "{\"order_date\": \"2026-03-24\", \"item_category\": \"home_goods\", \"order_status\": \"delivered\"}"
+    },
+    {
+        "id": "oob_1",
+        "type": "Out-of-Scope",
+        "ticket_text": "I forgot my password and my email is hacked. How do I log in?",
+        "order_context_json": "{}"
+    },
+    {
+        "id": "oob_2",
+        "type": "Out-of-Scope",
+        "ticket_text": "What is the capital of France? I need it for my homework.",
+        "order_context_json": "{}"
+    },
+    {
+        "id": "oob_3",
+        "type": "Out-of-Scope",
+        "ticket_text": "Can you give me the recipe for the cookies I just bought?",
+        "order_context_json": "{\"order_date\": \"2026-03-24\", \"item_category\": \"food\", \"order_status\": \"delivered\"}"
+    }
+]
